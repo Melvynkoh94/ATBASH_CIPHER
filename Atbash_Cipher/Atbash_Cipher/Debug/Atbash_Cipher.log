@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\user\onedrive - nanyang technological university\ntu\python_ext_proj\atbash_cipher\atbash_cipher\atbash_cipher\main.c(30): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\user\onedrive - nanyang technological university\ntu\python_ext_proj\atbash_cipher\atbash_cipher\atbash_cipher\main.c(106): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\user\onedrive - nanyang technological university\ntu\python_ext_proj\atbash_cipher\atbash_cipher\atbash_cipher\main.c(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Atbash_Cipher.vcxproj -> C:\Users\User\OneDrive - Nanyang Technological University\NTU\python_ext_proj\ATBASH_CIPHER\Atbash_Cipher\Debug\Atbash_Cipher.exe
